@@ -1,0 +1,2 @@
+2022-12-03 15:40:49 tp-drl-23 process_watcher[22434] INFO Process watcher started between parent 22357 and child 22389 
+2022-12-03 15:42:03 tp-drl-23 process_watcher[22434] INFO Child is not running anymore, launcher can terminate.

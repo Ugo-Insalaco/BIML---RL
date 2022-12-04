@@ -1,0 +1,1 @@
+Pour récupérer la vidéo : scp etudiant@192.168.73.203:~/apprentissage-par-renforcement-profond/MineRL/video.mp4 C:\Users\user\Documents

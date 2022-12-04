@@ -1,0 +1,2 @@
+2022-12-03 15:39:26 tp-drl-23 process_watcher[22136] INFO Process watcher started between parent 22011 and child 22096 
+2022-12-03 15:39:59 tp-drl-23 process_watcher[22136] INFO Parent is not running, hence we need terminate the child.

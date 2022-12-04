@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+gym = "*"
+box2d = "*"
+box2d-py = "*"
+matplotlib = "*"
+moviepy = "*"
+torch = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
